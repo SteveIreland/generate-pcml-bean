@@ -1,6 +1,6 @@
-package org.jetbrains.plugins.template.services
+package com.github.steveireland.generatepcmlbean.services
 
-import org.jetbrains.plugins.template.MyBundle
+import com.github.steveireland.generatepcmlbean.MyBundle
 
 class MyApplicationService {
 
